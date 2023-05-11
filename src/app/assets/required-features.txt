@@ -1,0 +1,26 @@
+1. login --form
+2. register --form
+3. home -- 
+        i. nav
+    a. categories
+    b. banner
+    c. popular products
+        ii. footer
+4. cart 
+    a. item list 
+    b. checkout button
+    c. address
+    d. payment
+5. orderlist
+    
+6. orderdetails
+    a. ordered item 
+    b. total amount
+
+7. Profile page
+    a. personal details
+    b. addresses
+8. Product list
+9. Product details
+
+
